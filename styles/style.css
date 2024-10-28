@@ -34,3 +34,6 @@ button{
     border-radius: 15px;
     border: none;
 }
+body{
+    background-color: lime;
+}
